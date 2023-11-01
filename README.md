@@ -21,7 +21,7 @@ Please note, that the uniform `Glorot` inialization of the neural network has so
 
 Below is an animation of the optimization over different epochs for the mock test: 
 
-[View animation](mocktest/plots/iters/movie.mp4)
+[View animation](https://dustindnguyen.com/image/movie_neurips.mp4)
 
 
 

@@ -1,6 +1,6 @@
 # Github repo for "Neural ODEs as a discovery tool to characterize the structure of the hot galactic wind of M82," NeurIPS 2023 Machine Learning and the Physical Sciences Workshop. 
 
-The paper can be found at: 
+The paper can be found [here](https://ml4physicalsciences.github.io/2023/files/NeurIPS_ML4PS_2023_51.pdf). 
 
 
 Additional details on neural galactic winds can be found in my first [paper](https://ml4astro.github.io/icml2023/assets/16.pdf). 
